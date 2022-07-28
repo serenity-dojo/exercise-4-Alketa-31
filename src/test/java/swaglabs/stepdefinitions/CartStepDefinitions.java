@@ -63,6 +63,11 @@ public class CartStepDefinitions {
         // TODO: Implement me
     }
 
+    @When("Colin/he removes {string} from the cart summary")
+    public void heRemovesFromTheCartSummary(String item) {
+        // TODO: Implement me
+    }
+
     /**
      * Open the shopping cart page directly
      */
