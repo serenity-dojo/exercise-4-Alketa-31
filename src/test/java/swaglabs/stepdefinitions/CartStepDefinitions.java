@@ -73,10 +73,14 @@ public class CartStepDefinitions {
      */
     @Given("Colin/he has opened the shopping cart")
     @Given("Colin/he views his shopping cart")
-    @When("Colin/he reviews his order")
     @When("Colin/he opens the shopping cart")
     public void opensCart() {
         // TODO: Implement me
+    }
+
+    @When("Colin/he reviews his order")
+    public void reviewOrder() {
+
     }
 
     @When("Colin/he continues shopping")
