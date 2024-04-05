@@ -18,6 +18,8 @@
         <encoding>UTF-8</encoding>
         <tags></tags>
         <webdriver.base.url></webdriver.base.url>
+        <browserstack.user></browserstack.user>
+        <browserstack.key></browserstack.key>
     </properties>
     <dependencies>
         <dependency>
